@@ -1,0 +1,6 @@
+@cz6_s33286_asp_HostAddress = http://localhost:5079
+
+GET {{cz6_s33286_asp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
